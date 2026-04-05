@@ -3,6 +3,12 @@
 # דו"ח מעבדה: יסודות חומות אש (Firewall Essentials)
 **מקור:** TryHackMe | **סטטוס:** הושלמו משימות 1-4 (36%) | **תפקיד:** Penetration Tester (PT) in training
 
+
+
+
+
+<img width="1889" height="757" alt="image" src="https://github.com/user-attachments/assets/1fd5fbc9-0836-4f54-aa53-af276bf90639" />
+
 ## 📝 מבוא (Introduction)
 חומת אש (Firewall) היא קו ההגנה הראשון ברשת. היא משמשת כ"מאבטח" הבודק כל חבילת מידע (Packet) הנכנסת או יוצאת מהמכשיר. בדו"ח זה נסקור את הסוגים השונים, את מבנה החוקים, ותרגול מעשי על Windows Defender Firewall.
 
