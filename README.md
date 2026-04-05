@@ -1,15 +1,9 @@
-# THM-Firewalls-Concepts-Hands-on-
+
+# TryHackMe: Firewalls Concepts & Hands-on 🛡️
 מדריך זה מסכם את היסודות של חומות אש (Firewalls), סוגיהן השונים, ותרגול מעשי על מערכת Windows Defender. הדו"ח נכתב כחלק מתהליך הכשרה כבודק חדירות (Penetration Tester).
 
 
 
-בשמחה! כפנטסטר (PT), תיעוד העבודה שלך ב-GitHub הוא כרטיס הביקור הכי טוב שלך. כדי שזה ייראה מקצועי, ננסח את זה כ**Write-up** (דו"ח למידה וביצוע) מסודר הכולל הסברים תאורטיים לצד הפעולות שביצעת במעבדה.
-
-להלן הפורמט המוצע לקובץ `README.md` עבור ה-GitHub שלך:
-
----
-
-# TryHackMe: Firewalls Concepts & Hands-on 🛡️
 
 ## 📝 Introduction
 מדריך זה מסכם את היסודות של חומות אש (Firewalls), סוגיהן השונים, ותרגול מעשי על מערכת Windows Defender. הדו"ח נכתב כחלק מתהליך הכשרה כבודק חדירות (Penetration Tester).
